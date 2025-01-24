@@ -1,4 +1,4 @@
-# FounderInsights
+# Founder Insights
 
 An AI agent project that enriches and verifies founder information against Wikipedia data. The system takes founder data from a structured CSV input, verifies and enhances it with Wikipedia information, and provides detailed profiles including education, career history, and achievements.
 

@@ -1,0 +1,2174 @@
+{
+  "Brian Chesky": {
+    "short_description": "Co-founder and CEO of Airbnb, and the 290th richest person in the world according to Forbes with a net worth of $9.2 billion.",
+    "education": {
+      "degree": "Bachelor of Fine Arts degree in industrial design",
+      "institution": "Rhode Island School of Design (RISD)",
+      "field": "Industrial Design"
+    },
+    "career": {
+      "current_role": {
+        "title": "CEO",
+        "company": "Airbnb",
+        "description": "As CEO, Chesky has solicited ideas for improving Airbnb directly from customers and has implemented ideas based on his personal experiences as both a guest and a host on the platform.",
+        "duration": "2008 - Present",
+        "achievements": [
+          "Airbnb became a public company via an initial public offering in December 2020."
+        ]
+      },
+      "experience": [
+        {
+          "company": "Airbnb",
+          "roles": [
+            {
+              "title": "Co-founder and CEO",
+              "duration": "2008 - Present",
+              "description": "Chesky co-founded Airbnb and has been serving as its CEO since its inception. He has been instrumental in the company's growth and success.",
+              "responsibilities": [
+                "Leading the company",
+                "Soliciting and implementing improvement ideas"
+              ],
+              "achievements": [
+                "Airbnb's successful transition to a public company",
+                "Creation of special-edition cereals for funding which led to an invitation to Y Combinator and $20,000 in funding"
+              ]
+            }
+          ]
+        },
+        {
+          "company": "Industrial Designer",
+          "roles": [
+            {
+              "title": "Industrial Designer",
+              "duration": "2004 - 2007",
+              "description": "Worked as an industrial designer in Los Angeles after graduating from RISD.",
+              "responsibilities": [
+                "Industrial design tasks"
+              ],
+              "achievements": []
+            }
+          ]
+        }
+      ],
+      "total_years_experience": "18 years"
+    },
+    "source_url": "https://en.wikipedia.org/wiki/Brian_Chesky"
+  },
+  "Nathan Blecharczyk": {
+    "short_description": "Co-founder and chief strategy officer of Airbnb, and chairman of Airbnb China. He is the 203rd richest person in the world according to Forbes.",
+    "education": {
+      "degree": "Bachelor of Science",
+      "institution": "Harvard University",
+      "field": "Computer Science"
+    },
+    "career": {
+      "current_role": {
+        "title": "Chief Strategy Officer and Chairman of Airbnb China",
+        "company": "Airbnb",
+        "description": "Oversees strategic planning and operations for Airbnb and leads the company's operations in China.",
+        "duration": "2017 - Present",
+        "achievements": [
+          "Transitioned to Chief Strategy Officer in 2017",
+          "Appointed as Chairman of Airbnb China in 2017"
+        ]
+      },
+      "experience": [
+        {
+          "company": "Airbnb",
+          "roles": [
+            {
+              "title": "Co-founder and Chief Technology Officer",
+              "duration": "2008 - 2017",
+              "description": "Co-founded Airbnb and served as the company's first Chief Technology Officer. Coded the company's original website using Ruby on Rails.",
+              "responsibilities": [
+                "Co-founding the company",
+                "Developing the company's original website"
+              ],
+              "achievements": [
+                "Successfully raised initial funding for the company",
+                "Oversaw the company's expansion into Cuba in 2015"
+              ]
+            }
+          ]
+        },
+        {
+          "company": "Batiq",
+          "roles": [
+            {
+              "title": "Lead Developer",
+              "duration": "2007",
+              "description": "Served as a lead developer at Batiq.",
+              "responsibilities": [
+                "Leading development projects"
+              ],
+              "achievements": []
+            }
+          ]
+        },
+        {
+          "company": "OPNET",
+          "roles": [
+            {
+              "title": "Engineer",
+              "duration": "2005",
+              "description": "Began his career as an engineer at OPNET.",
+              "responsibilities": [
+                "Engineering tasks"
+              ],
+              "achievements": []
+            }
+          ]
+        }
+      ],
+      "total_years_experience": "15 years"
+    },
+    "source_url": "https://en.wikipedia.org/wiki/Nathan_Blecharczyk"
+  },
+  "Joe Gebbia": {
+    "short_description": "Co-founder of Airbnb and board member of Tesla Inc., with a net worth of $7.4 billion",
+    "education": {
+      "degree": "Bachelor of Fine Arts degree in Graphic Design and Industrial Design",
+      "institution": "Rhode Island School of Design (RISD)",
+      "field": "Graphic Design and Industrial Design"
+    },
+    "career": {
+      "current_role": {
+        "title": "Board Member",
+        "company": "Tesla Inc.",
+        "description": "Joined the board of Tesla Inc. in 2022",
+        "duration": "2022 - Present",
+        "achievements": [
+          "Joined the board of Tesla Inc.",
+          "Bought a minority stake in the San Antonio Spurs basketball team"
+        ]
+      },
+      "experience": [
+        {
+          "company": "Airbnb",
+          "roles": [
+            {
+              "title": "Co-founder",
+              "duration": "2007 - Present",
+              "description": "Co-founded Airbnb with Brian Chesky and Nathan Blecharczyk. Initially started by renting out airbeds in their apartment to conference-goers, which later expanded to include entire homes, apartments, and private rooms.",
+              "responsibilities": [
+                "Helped early hosts present their listings",
+                "Took high-resolution photos of the listings",
+                "Offered complimentary professional photography services"
+              ],
+              "achievements": [
+                "Airbnb became a public company via an initial public offering, raising $3.5 billion",
+                "Launched Neighborhood, a modular designed office furniture business"
+              ]
+            }
+          ]
+        },
+        {
+          "company": "Chronicle Books",
+          "roles": [
+            {
+              "title": "Designer",
+              "duration": "2005 - 2007",
+              "description": "Worked as a designer for Chronicle Books, where he was the only industrial designer in a company of 200 people who focused on graphic design.",
+              "responsibilities": [
+                "Industrial design"
+              ],
+              "achievements": [
+                "Founded Ecolect, a green-design website"
+              ]
+            }
+          ]
+        }
+      ],
+      "total_years_experience": "17 years"
+    },
+    "source_url": "https://en.wikipedia.org/wiki/Joe_Gebbia"
+  },
+  "Spenser Skates": {
+    "short_description": "CEO of Amplitude, Inc., a company that develops digital analytics software",
+    "education": {
+      "degree": "Not available",
+      "institution": "Not available",
+      "field": "Not available"
+    },
+    "career": {
+      "current_role": {
+        "title": "CEO",
+        "company": "Amplitude, Inc.",
+        "description": "Leads the company in developing digital analytics software and took the company public through a direct listing on the Nasdaq stock exchange",
+        "duration": "2014 - Present",
+        "achievements": [
+          "Took Amplitude, Inc. public on the Nasdaq stock exchange",
+          "Increased the company's value from $5 billion to $7.1 billion on the first day of trading",
+          "Reported $72 million in revenue for the first half of 2021, a year over year increase of 56%",
+          "Grew the company to have 490 employees across the US, Europe and Asia, and count 26 of the Fortune 100 as customers"
+        ]
+      },
+      "experience": [
+        {
+          "company": "Sonalight",
+          "roles": [
+            {
+              "title": "Co-founder",
+              "duration": "2012 - 2014",
+              "description": "Co-founded Sonalight, which produced an Android app that enabled users to send text messages via voice. Later shifted focus to building analytics software into a product via a new company called Amplitude",
+              "responsibilities": [
+                "Developed an Android app for voice text messaging",
+                "Created analytics software to understand user behavior"
+              ],
+              "achievements": [
+                "Successfully shifted focus from app development to analytics software, leading to the creation of Amplitude, Inc."
+              ]
+            }
+          ]
+        }
+      ],
+      "total_years_experience": "9 years"
+    },
+    "source_url": "https://en.wikipedia.org/wiki/Amplitude,_Inc."
+  },
+  "Curtis Liu": {
+    "short_description": "Co-founder of Amplitude, Inc., a digital analytics software company",
+    "education": {
+      "degree": "Not available",
+      "institution": "Not available",
+      "field": "Not available"
+    },
+    "career": {
+      "current_role": {
+        "title": "Co-founder",
+        "company": "Amplitude, Inc.",
+        "description": "Co-founded Amplitude, Inc., a company that develops digital analytics software. The company went public on the Nasdaq stock exchange in 2021.",
+        "duration": "2014 - Present",
+        "achievements": [
+          "Co-created a successful analytics software that received interest from other companies",
+          "Led the company to go public on the Nasdaq stock exchange"
+        ]
+      },
+      "experience": [
+        {
+          "company": "Sonalight",
+          "roles": [
+            {
+              "title": "Co-founder",
+              "duration": "2012 - 2014",
+              "description": "Co-founded Sonalight, a company that produced an Android app enabling users to send text messages via voice. Also developed an analytics software to understand user behavior.",
+              "responsibilities": [
+                "Developed an Android app",
+                "Created analytics software to understand user behavior"
+              ],
+              "achievements": [
+                "Successfully created an Android app",
+                "Developed an analytics software that later became the foundation for Amplitude, Inc."
+              ]
+            }
+          ]
+        }
+      ],
+      "total_years_experience": "9 years"
+    },
+    "source_url": "https://en.wikipedia.org/wiki/Amplitude,_Inc."
+  },
+  "Zach Sims": {
+    "short_description": "Co-founder and CEO of Codecademy, an online platform offering interactive coding lessons and tutorials.",
+    "education": {
+      "degree": "N/A",
+      "institution": "Columbia University",
+      "field": "Political Science"
+    },
+    "career": {
+      "current_role": {
+        "title": "CEO",
+        "company": "Codecademy",
+        "description": "Oversees the growth and development of Codecademy, one of the leading online resources for learning to code.",
+        "duration": "2011 - Present",
+        "achievements": [
+          "Grew Codecademy to a user base of 45 million users.",
+          "Named one of the finalists of the Time 100 in 2013.",
+          "Named to Inc. Magazine\u2019s 30 Under 30 list."
+        ]
+      },
+      "experience": [
+        {
+          "company": "GroupMe",
+          "roles": [
+            {
+              "title": "Employee",
+              "duration": "2010",
+              "description": "Worked for GroupMe, a company founded by his college friend Jared Hecht.",
+              "responsibilities": [
+                "N/A"
+              ],
+              "achievements": [
+                "N/A"
+              ]
+            }
+          ]
+        },
+        {
+          "company": "Codecademy",
+          "roles": [
+            {
+              "title": "Co-founder",
+              "duration": "2011 - Present",
+              "description": "Co-founded Codecademy, an online platform offering interactive coding lessons and tutorials.",
+              "responsibilities": [
+                "Built the first version of Codecademy to teach himself how to program.",
+                "Launched Codecademy with co-founder Ryan Bubinski."
+              ],
+              "achievements": [
+                "Codecademy was the runner-up of TechCrunch's Best New Startup awards in 2011.",
+                "Attracted more than 200,000 users during the first weekend of the launch and had 1 million users by the end of 2011."
+              ]
+            }
+          ]
+        }
+      ],
+      "total_years_experience": "11 years"
+    },
+    "source_url": "https://en.wikipedia.org/wiki/Zach_Sims"
+  },
+  "Kyle Vogt": {
+    "short_description": "Co-founder of Cruise Automation and The Bot Company, known for his contributions to autonomous vehicle technology and live-streaming platform technologies.",
+    "education": {
+      "degree": "Undergraduate",
+      "institution": "Massachusetts Institute of Technology",
+      "field": "Computer Science and Electrical Engineering"
+    },
+    "career": {
+      "current_role": {
+        "title": "Founder",
+        "company": "The Bot Company",
+        "description": "Leading a startup focused on developing consumer-oriented robots for household tasks.",
+        "duration": "2024 - Present",
+        "achievements": [
+          "Launched The Bot Company with $150 million in seed funding",
+          "The Bot Company was valued at $550 million as of May 2024"
+        ]
+      },
+      "experience": [
+        {
+          "company": "Cruise Automation",
+          "roles": [
+            {
+              "title": "Founder, President, CEO, and CTO",
+              "duration": "October 2013 - November 2023",
+              "description": "Led the development of self-driving car technology, participated in Y Combinator, a startup accelerator.",
+              "responsibilities": [
+                "Oversaw the acquisition of Cruise Automation by General Motors",
+                "Served as interim CEO after Dan Ammann left the company"
+              ],
+              "achievements": [
+                "General Motors acquired Cruise Automation for over $1 billion",
+                "Listed as number 7 on Fortune's 2016 40 Under 40 List"
+              ]
+            }
+          ]
+        },
+        {
+          "company": "Justin.tv",
+          "roles": [
+            {
+              "title": "Co-founder",
+              "duration": "Junior year at MIT - June 2011",
+              "description": "Instrumental in the creation of Justin.tv, which evolved into the popular streaming platform Twitch.",
+              "responsibilities": [
+                "Solved complex coding challenges",
+                "Designed camera systems crucial for live streaming"
+              ],
+              "achievements": [
+                "Co-founded two spin-off companies: Socialcam and Twitch",
+                "Twitch was acquired by Amazon for $970 million in 2014"
+              ]
+            }
+          ]
+        }
+      ],
+      "total_years_experience": "Approximately 13 years"
+    },
+    "source_url": "https://en.wikipedia.org/wiki/Kyle_Vogt"
+  },
+  "Daniel Kan": {
+    "short_description": "Dutch mathematician who made significant contributions to category theory and homotopy theory",
+    "education": {
+      "degree": "Ph.D.",
+      "institution": "Hebrew University",
+      "field": "Mathematics"
+    },
+    "career": {
+      "current_role": {
+        "title": "Emeritus Professor",
+        "company": "Massachusetts Institute of Technology",
+        "description": "Retired professor who taught at MIT from 1959 to 1993",
+        "duration": "1959 - 1993",
+        "achievements": [
+          "Taught several notable students including Aldridge K. Bousfield, William Dwyer, Stewart Priddy, Emmanuel Dror Farjoun, and Jeffrey H. Smith"
+        ]
+      },
+      "experience": [
+        {
+          "company": "Massachusetts Institute of Technology",
+          "roles": [
+            {
+              "title": "Professor",
+              "duration": "1959 - 1993",
+              "description": "Taught mathematics, specifically category theory and homotopy theory",
+              "responsibilities": [
+                "Teaching",
+                "Research in category theory and homotopy theory"
+              ],
+              "achievements": [
+                "Contributed to the beginnings of modern homotopy theory",
+                "Authored or coauthored several dozen research papers and monographs",
+                "His work on adjoint functors and the Kan extension is highly regarded",
+                "Made significant contributions to the theory of simplicial sets and simplicial methods in topology"
+              ]
+            }
+          ]
+        }
+      ],
+      "total_years_experience": "34 years"
+    },
+    "source_url": "https://en.wikipedia.org/wiki/Daniel_Kan"
+  },
+  "Arash Ferdowsi": {
+    "short_description": "Arash Ferdowsi is an American billionaire entrepreneur and co-founder of Dropbox.",
+    "education": {
+      "degree": "Bachelor's degree (incomplete)",
+      "institution": "Massachusetts Institute of Technology (MIT)",
+      "field": "Electrical Engineering and Computer Science"
+    },
+    "career": {
+      "current_role": {
+        "title": "Former Chief Technology Officer (CTO)",
+        "company": "Dropbox",
+        "description": "Oversaw the technology strategy and development of Dropbox from its inception until 2016.",
+        "duration": "June 2007 - October 2016",
+        "achievements": [
+          "Led the development of Dropbox's core technology and infrastructure.",
+          "Contributed to the company's growth to a valuation of approximately $9.2 billion at IPO."
+        ]
+      },
+      "experience": [
+        {
+          "company": "Dropbox",
+          "roles": [
+            {
+              "title": "Co-founder and Chief Technology Officer (CTO)",
+              "duration": "June 2007 - October 2016",
+              "description": "Co-founded Dropbox and served as CTO, responsible for the company's technology vision and execution.",
+              "responsibilities": [
+                "Developing and maintaining the Dropbox platform.",
+                "Leading the engineering team and technology strategy."
+              ],
+              "achievements": [
+                "Successfully raised venture capital from top investors.",
+                "Guided the company through its initial public offering in March 2018."
+              ]
+            }
+          ]
+        }
+      ],
+      "total_years_experience": "9 years"
+    },
+    "source_url": "https://en.wikipedia.org/wiki/Arash_Ferdowsi"
+  },
+  "Brian Armstrong": {
+    "short_description": "Brian Armstrong is the CEO of Coinbase, a leading cryptocurrency platform, known for his policy of maintaining a politically neutral workplace.",
+    "education": {
+      "degree": "Master's in Computer Science",
+      "institution": "Rice University",
+      "field": "Economics and Computer Science"
+    },
+    "career": {
+      "current_role": {
+        "title": "CEO",
+        "company": "Coinbase",
+        "description": "As CEO, Armstrong leads Coinbase, overseeing its operations and strategic direction in the cryptocurrency market.",
+        "duration": "2012 - Present",
+        "achievements": [
+          "Led Coinbase to a direct listing with a market capitalization of $85 billion in April 2021.",
+          "Oversaw a funding round in 2018 that valued Coinbase at $8.1 billion.",
+          "Implemented a workplace policy discouraging political activism."
+        ]
+      },
+      "experience": [
+        {
+          "company": "Coinbase",
+          "roles": [
+            {
+              "title": "Co-Founder & CEO",
+              "duration": "2012 - Present",
+              "description": "Co-founded Coinbase to facilitate cryptocurrency trading and has been instrumental in its growth and public listing.",
+              "responsibilities": [
+                "Strategic leadership and vision for the company.",
+                "Management of company operations and employee policies."
+              ],
+              "achievements": [
+                "Successfully raised $150,000 through Y Combinator to fund Coinbase.",
+                "Grew Coinbase to become one of the largest cryptocurrency exchanges globally."
+              ]
+            }
+          ]
+        },
+        {
+          "company": "Airbnb",
+          "roles": [
+            {
+              "title": "Software Engineer",
+              "duration": "2011 - 2012",
+              "description": "Worked on payment systems for Airbnb, gaining insights into international money transfers.",
+              "responsibilities": [
+                "Developed software solutions for payment processing.",
+                "Analyzed and improved payment systems across multiple countries."
+              ],
+              "achievements": [
+                "Identified challenges in sending money to South America, leading to personal projects in cryptocurrency."
+              ]
+            }
+          ]
+        },
+        {
+          "company": "Deloitte",
+          "roles": [
+            {
+              "title": "Consultant",
+              "duration": "2006 - 2010",
+              "description": "Provided consulting services, leveraging technical and economic expertise.",
+              "responsibilities": [
+                "Advised clients on technology and business strategy.",
+                "Conducted market analysis and developed solutions."
+              ],
+              "achievements": [
+                "Contributed to significant client projects that improved operational efficiency."
+              ]
+            }
+          ]
+        },
+        {
+          "company": "IBM",
+          "roles": [
+            {
+              "title": "Developer",
+              "duration": "2005 - 2006",
+              "description": "Worked as a developer, focusing on software solutions.",
+              "responsibilities": [
+                "Developed and tested software applications.",
+                "Collaborated with teams to enhance product offerings."
+              ],
+              "achievements": [
+                "Gained foundational experience in software development."
+              ]
+            }
+          ]
+        }
+      ],
+      "total_years_experience": "18 years"
+    },
+    "source_url": "https://en.wikipedia.org/wiki/Brian_Armstrong"
+  },
+  "Drew Houston": {
+    "short_description": "Drew Houston is the co-founder and CEO of Dropbox, an online backup and storage service.",
+    "education": {
+      "degree": "Bachelor's Degree",
+      "institution": "Massachusetts Institute of Technology (MIT)",
+      "field": "Computer Science"
+    },
+    "career": {
+      "current_role": {
+        "title": "CEO",
+        "company": "Dropbox",
+        "description": "As CEO, Drew Houston oversees the strategic direction and operations of Dropbox, focusing on product development and company growth.",
+        "duration": "2007 - Present",
+        "achievements": [
+          "Led Dropbox to become one of the most successful startups in Silicon Valley.",
+          "Maintained 25% ownership and significant voting power in the company."
+        ]
+      },
+      "experience": [
+        {
+          "company": "Dropbox",
+          "roles": [
+            {
+              "title": "Co-founder and CEO",
+              "duration": "2007 - Present",
+              "description": "Co-founded Dropbox and has been leading the company as CEO since its inception.",
+              "responsibilities": [
+                "Strategic planning and execution of company vision.",
+                "Overseeing product development and user experience."
+              ],
+              "achievements": [
+                "Dropbox recognized as Y Combinator's most successful investment.",
+                "Company's successful IPO in February 2018."
+              ]
+            }
+          ]
+        },
+        {
+          "company": "SAT Prep Company",
+          "roles": [
+            {
+              "title": "Co-founder",
+              "duration": "During college years (exact dates not specified)",
+              "description": "Co-founded a SAT prep company while studying at MIT.",
+              "responsibilities": [
+                "Developing educational materials and programs.",
+                "Marketing and outreach to students."
+              ],
+              "achievements": [
+                "Successfully launched and operated the company during college."
+              ]
+            }
+          ]
+        }
+      ],
+      "total_years_experience": "16 years"
+    },
+    "source_url": "https://en.wikipedia.org/wiki/Drew_Houston"
+  },
+  "Tom Knight": {
+    "short_description": "Tom Knight is a prominent synthetic biologist and computer engineer, co-founder of Ginkgo Bioworks and a pioneer in synthetic biology.",
+    "education": {
+      "degree": "Not specified",
+      "institution": "MIT",
+      "field": "Computer Science and Engineering"
+    },
+    "career": {
+      "current_role": {
+        "title": "Co-founder and Senior Research Scientist",
+        "company": "Ginkgo Bioworks",
+        "description": "Leading efforts in synthetic biology, focusing on the development and application of BioBrick technology.",
+        "duration": "2008 - Present",
+        "achievements": [
+          "Co-founded Ginkgo Bioworks, a leading synthetic biology company.",
+          "Developed the concept of BioBricks, facilitating genetic engineering."
+        ]
+      },
+      "experience": [
+        {
+          "company": "MIT Computer Science and Artificial Intelligence Laboratory",
+          "roles": [
+            {
+              "title": "Senior Research Scientist",
+              "duration": "1967 - 2008",
+              "description": "Conducted research in electrical engineering and computer science, contributing to various pioneering projects.",
+              "responsibilities": [
+                "Developed early hardware and software systems.",
+                "Led projects in artificial intelligence and computer architecture."
+              ],
+              "achievements": [
+                "Wrote the original kernel for the ITS operating system.",
+                "Designed the first PDP-10 ARPANET interfaces.",
+                "Contributed to the development of the Lisp Machine architecture."
+              ]
+            }
+          ]
+        }
+      ],
+      "total_years_experience": "Approximately 56 years"
+    },
+    "source_url": "https://en.wikipedia.org/wiki/Tom_Knight_(scientist)"
+  },
+  "Mikhail Kokorich": {
+    "short_description": "Mikhail Kokorich is a Russian physicist and entrepreneur, currently the CEO and founder of Destinus, developing hydrogen-powered hyperplanes.",
+    "education": {
+      "degree": "MBA",
+      "institution": "Moscow School of Management",
+      "field": "Business Administration"
+    },
+    "career": {
+      "current_role": {
+        "title": "CEO",
+        "company": "Destinus",
+        "description": "Leading the development of hydrogen-powered hyperplanes for cargo transportation between continents.",
+        "duration": "2021 - Present",
+        "achievements": [
+          "Founded Destinus and established its headquarters in Switzerland.",
+          "Successfully conducted the maiden flight of the prototype 'Jungfrau30' in November 2021."
+        ]
+      },
+      "experience": [
+        {
+          "company": "Momentus Space",
+          "roles": [
+            {
+              "title": "Founder and CEO",
+              "duration": "2017 - 2021",
+              "description": "Founded a space transportation company focused on satellite deployment and space logistics.",
+              "responsibilities": [
+                "Developed and patented key technologies for space transportation.",
+                "Led the company through its IPO process."
+              ],
+              "achievements": [
+                "Raised $143 million in private funding.",
+                "Momentus went public in August 2021, raising $247 million."
+              ]
+            }
+          ]
+        },
+        {
+          "company": "Dauria Aerospace",
+          "roles": [
+            {
+              "title": "Founder",
+              "duration": "2011 - 2015",
+              "description": "Established a company focused on satellite development and deployment.",
+              "responsibilities": [
+                "Oversaw the launch of multiple satellites.",
+                "Managed international operations and partnerships."
+              ],
+              "achievements": [
+                "Raised $20 million from I2BF Global Ventures.",
+                "Launched five satellites between 2014 and 2017."
+              ]
+            }
+          ]
+        },
+        {
+          "company": "Chudodom",
+          "roles": [
+            {
+              "title": "Founder",
+              "duration": "2004 - 2013",
+              "description": "Founded a domestic merchandise retail chain that merged to form a leading company in Eastern Europe.",
+              "responsibilities": [
+                "Expanded the retail chain through strategic mergers.",
+                "Managed operations and growth strategies."
+              ],
+              "achievements": [
+                "Merged with Yuterra to create the largest domestic merchandise company in Eastern Europe."
+              ]
+            }
+          ]
+        },
+        {
+          "company": "Technosila",
+          "roles": [
+            {
+              "title": "Owner",
+              "duration": "2010 - 2012",
+              "description": "Acquired and restructured one of the largest electronics and household appliance chains in Russia.",
+              "responsibilities": [
+                "Led financial recovery and restructuring efforts.",
+                "Developed strategies for market re-entry."
+              ],
+              "achievements": [
+                "Successfully sold Technosila to focus on aerospace ventures."
+              ]
+            }
+          ]
+        },
+        {
+          "company": "Dauria",
+          "roles": [
+            {
+              "title": "Founder",
+              "duration": "1997 - 2004",
+              "description": "Started a company providing blasting services and chemical supplies.",
+              "responsibilities": [
+                "Managed operations and client relations.",
+                "Developed service offerings for mining and construction sectors."
+              ],
+              "achievements": [
+                "Established a profitable business as a student."
+              ]
+            }
+          ]
+        }
+      ],
+      "total_years_experience": "26 years"
+    },
+    "source_url": "https://en.wikipedia.org/wiki/Mikhail_Kokorich"
+  },
+  "Shola Akinlade": {
+    "short_description": "Shola Akinlade is a Nigerian software engineer and entrepreneur, co-founder and CEO of Paystack, which was acquired by Stripe in 2020.",
+    "education": {
+      "degree": "Bachelor's degree",
+      "institution": "Babcock University",
+      "field": "Computer Science"
+    },
+    "career": {
+      "current_role": {
+        "title": "CEO",
+        "company": "Paystack",
+        "description": "Leading Paystack in providing payment solutions for businesses in Africa.",
+        "duration": "2016 - Present",
+        "achievements": [
+          "Successfully led Paystack to a $200 million acquisition by Stripe in 2020.",
+          "Expanded Paystack's services to help businesses get paid online and offline."
+        ]
+      },
+      "experience": [
+        {
+          "company": "Heineken",
+          "roles": [
+            {
+              "title": "Management Trainee / Software Engineer",
+              "duration": "2006 - 2010",
+              "description": "Worked on database management and software engineering projects.",
+              "responsibilities": [
+                "Managed and optimized database systems.",
+                "Developed software solutions for banking clients."
+              ],
+              "achievements": [
+                "Contributed to the successful implementation of database management systems.",
+                "Gained foundational experience in software engineering."
+              ]
+            }
+          ]
+        },
+        {
+          "company": "Paystack",
+          "roles": [
+            {
+              "title": "Co-founder",
+              "duration": "2016 - Present",
+              "description": "Co-founded Paystack to facilitate online payments for businesses in Africa.",
+              "responsibilities": [
+                "Oversee company operations and strategic direction.",
+                "Lead product development and market expansion efforts."
+              ],
+              "achievements": [
+                "Led Paystack to become a leading payment processor in Africa.",
+                "Secured investment and partnerships to enhance service offerings."
+              ]
+            }
+          ]
+        },
+        {
+          "company": "Sporting Lagos F.C.",
+          "roles": [
+            {
+              "title": "Founder",
+              "duration": "2022 - Present",
+              "description": "Founded a football club aimed at community development and social change.",
+              "responsibilities": [
+                "Establish club operations and community engagement initiatives.",
+                "Develop talent academy programs."
+              ],
+              "achievements": [
+                "Launched Sporting Lagos F.C. as a platform for youth development.",
+                "Acquired a stake in Aarhus Fremad to support club professionalization."
+              ]
+            }
+          ]
+        }
+      ],
+      "total_years_experience": "17 years"
+    },
+    "source_url": "https://en.wikipedia.org/wiki/Shola_Akinlade"
+  },
+  "Steve Huffman": {
+    "short_description": "Steve Huffman is the co-founder and CEO of Reddit, known for leading significant changes to the platform.",
+    "education": {
+      "degree": "Bachelor's Degree",
+      "institution": "University of Virginia",
+      "field": "Computer Science"
+    },
+    "career": {
+      "current_role": {
+        "title": "CEO",
+        "company": "Reddit",
+        "description": "Responsible for overseeing the operations and strategic direction of Reddit, implementing technological changes, and enhancing user experience.",
+        "duration": "2015 - Present",
+        "achievements": [
+          "Launched Reddit's iOS and Android apps",
+          "Redesigned Reddit's website for the first time in a decade",
+          "Implemented new content guidelines to improve community standards"
+        ]
+      },
+      "experience": [
+        {
+          "company": "Reddit",
+          "roles": [
+            {
+              "title": "Co-founder and CEO",
+              "duration": "2005 - 2009, 2015 - Present",
+              "description": "Co-founded Reddit and led the company through its initial growth phases and later rejoined as CEO to navigate challenges.",
+              "responsibilities": [
+                "Oversaw platform development and user engagement",
+                "Managed company operations and strategic initiatives"
+              ],
+              "achievements": [
+                "Sold Reddit to Cond\u00e9 Nast for $10 million to $20 million",
+                "Revamped Reddit's infrastructure and mobile site",
+                "Increased advertiser engagement and revenue"
+              ]
+            }
+          ]
+        },
+        {
+          "company": "Hipmunk",
+          "roles": [
+            {
+              "title": "Co-founder and CTO",
+              "duration": "2010 - 2020",
+              "description": "Co-created and led the development of Hipmunk, a travel website that simplified airfare searches.",
+              "responsibilities": [
+                "Developed the website and user interface",
+                "Managed technical operations and product development"
+              ],
+              "achievements": [
+                "Successfully launched Hipmunk with funding from Y Combinator",
+                "Gained recognition in the travel industry before its closure in 2020"
+              ]
+            }
+          ]
+        }
+      ],
+      "total_years_experience": "18"
+    },
+    "source_url": "https://en.wikipedia.org/wiki/Steve_Huffman"
+  },
+  "Adam Hansmann": {
+    "short_description": "Co-founder of The Athletic, a leading subscription-based sports journalism platform.",
+    "education": {
+      "degree": null,
+      "institution": null,
+      "field": null
+    },
+    "career": {
+      "current_role": {
+        "title": "Co-founder and Executive",
+        "company": "The Athletic",
+        "description": "Oversees operations and strategic direction of The Athletic, focusing on subscription-based sports journalism.",
+        "duration": "2016 - Present",
+        "achievements": [
+          "Successfully launched The Athletic in 2016, expanding to 47 cities and regions.",
+          "Led the company through acquisition by The New York Times Company for $550 million in 2022."
+        ]
+      },
+      "experience": [
+        {
+          "company": "The Athletic",
+          "roles": [
+            {
+              "title": "Co-founder",
+              "duration": "2016 - Present",
+              "description": "Co-founded The Athletic with a mission to provide in-depth sports coverage without reliance on advertising.",
+              "responsibilities": [
+                "Developing business strategies for subscription growth.",
+                "Recruiting and managing a diverse team of sports journalists."
+              ],
+              "achievements": [
+                "Grew subscriber base to over 1.2 million by 2021.",
+                "Expanded coverage to include major sports leagues and college sports."
+              ]
+            }
+          ]
+        },
+        {
+          "company": "Strava",
+          "roles": [
+            {
+              "title": "Former Employee",
+              "duration": "Prior to 2016",
+              "description": "Worked at Strava, a subscription-based fitness company, before co-founding The Athletic.",
+              "responsibilities": [
+                "Contributed to the development of subscription models.",
+                "Engaged in strategic planning and market analysis."
+              ],
+              "achievements": [
+                "Gained insights into subscription-based business models that informed The Athletic's strategy."
+              ]
+            }
+          ]
+        }
+      ],
+      "total_years_experience": "7"
+    },
+    "source_url": "https://en.wikipedia.org/wiki/The_Athletic"
+  },
+  "Alex Mather": {
+    "short_description": "Co-founder and leader of The Athletic, a subscription-based sports journalism platform acquired by The New York Times.",
+    "education": {
+      "degree": null,
+      "institution": null,
+      "field": null
+    },
+    "career": {
+      "current_role": {
+        "title": "Co-founder and Executive",
+        "company": "The Athletic",
+        "description": "Oversees operations and strategic direction of The Athletic, focusing on subscription-based sports journalism.",
+        "duration": "2016 - Present",
+        "achievements": [
+          "Successfully launched The Athletic in 2016, expanding to 47 cities and regions.",
+          "Led the company through its acquisition by The New York Times for $550 million in 2022.",
+          "Implemented a business model focused on subscription revenue, achieving over 1.2 million subscribers."
+        ]
+      },
+      "experience": [
+        {
+          "company": "The Athletic",
+          "roles": [
+            {
+              "title": "Co-founder",
+              "duration": "2016 - Present",
+              "description": "Co-founded The Athletic with a mission to provide in-depth sports coverage without advertising.",
+              "responsibilities": [
+                "Developing and executing the business strategy.",
+                "Managing editorial direction and writer recruitment."
+              ],
+              "achievements": [
+                "Expanded coverage to include all NHL and NFL teams by September 2018.",
+                "Increased subscriber base to over 1 million by September 2020."
+              ]
+            }
+          ]
+        }
+      ],
+      "total_years_experience": "7"
+    },
+    "source_url": "https://en.wikipedia.org/wiki/The_Athletic"
+  },
+  "Justin Kan": {
+    "short_description": "Justin Kan is an American internet entrepreneur and investor, known for co-founding Twitch and launching NFT marketplace Stash.",
+    "education": {
+      "degree": null,
+      "institution": null,
+      "field": null
+    },
+    "career": {
+      "current_role": {
+        "title": "Co-founder",
+        "company": "Stash",
+        "description": "Leading the development of a suite of products for game developers to interface directly with their customers.",
+        "duration": "2024 - Present",
+        "achievements": [
+          "Successfully pivoted Fractal to Stash, expanding its product offerings.",
+          "Raised $35 million in seed funding for Fractal in April 2022."
+        ]
+      },
+      "experience": [
+        {
+          "company": "Atrium",
+          "roles": [
+            {
+              "title": "Co-founder & CEO",
+              "duration": "2017 - March 2020",
+              "description": "Led a technology-enabled law firm focused on providing legal services through technology.",
+              "responsibilities": [
+                "Raised initial funding and managed operations.",
+                "Oversaw the development of legal technology solutions."
+              ],
+              "achievements": [
+                "Raised $75.5 million in total funding.",
+                "Built a board of directors with notable investors."
+              ]
+            }
+          ]
+        },
+        {
+          "company": "Socialcam",
+          "roles": [
+            {
+              "title": "Founder",
+              "duration": "March 2011 - October 2015",
+              "description": "Developed a mobile application for capturing and sharing videos.",
+              "responsibilities": [
+                "Led product development and marketing strategies.",
+                "Managed user acquisition and engagement."
+              ],
+              "achievements": [
+                "Achieved 16 million downloads before acquisition.",
+                "Sold Socialcam to Autodesk for $60 million."
+              ]
+            }
+          ]
+        },
+        {
+          "company": "Twitch",
+          "roles": [
+            {
+              "title": "Co-founder",
+              "duration": "June 2011 - August 2014",
+              "description": "Oversaw the launch and growth of a leading live streaming platform for gamers.",
+              "responsibilities": [
+                "Developed platform features and user engagement strategies.",
+                "Managed partnerships and monetization efforts."
+              ],
+              "achievements": [
+                "Successfully spun off from Justin.tv.",
+                "Acquired by Amazon for $970 million."
+              ]
+            }
+          ]
+        },
+        {
+          "company": "Justin.tv",
+          "roles": [
+            {
+              "title": "Co-founder",
+              "duration": "2007 - August 2014",
+              "description": "Launched a pioneering live video platform that allowed users to broadcast live video.",
+              "responsibilities": [
+                "Developed the initial concept and technology.",
+                "Managed user growth and platform features."
+              ],
+              "achievements": [
+                "Grew to over 30 million unique users monthly.",
+                "Transitioned to focus on gaming content leading to the creation of Twitch."
+              ]
+            }
+          ]
+        },
+        {
+          "company": "Exec",
+          "roles": [
+            {
+              "title": "Co-founder",
+              "duration": "February 2012 - January 2014",
+              "description": "Created a platform for outsourcing tasks to freelancers.",
+              "responsibilities": [
+                "Led product development and user acquisition.",
+                "Managed business operations and partnerships."
+              ],
+              "achievements": [
+                "Successfully sold Exec to Handybook in an all-stock transaction."
+              ]
+            }
+          ]
+        },
+        {
+          "company": "The Drop",
+          "roles": [
+            {
+              "title": "Co-founder",
+              "duration": "2015 - Present",
+              "description": "Developed a Reddit-style platform for electronic music discovery.",
+              "responsibilities": [
+                "Oversaw platform development and community engagement.",
+                "Managed marketing and user growth strategies."
+              ],
+              "achievements": [
+                "Launched a successful platform for music enthusiasts."
+              ]
+            }
+          ]
+        },
+        {
+          "company": "Y Combinator",
+          "roles": [
+            {
+              "title": "Partner",
+              "duration": "March 2014 - March 2017",
+              "description": "Provided mentorship and support to startups in the incubator.",
+              "responsibilities": [
+                "Advised on business strategies and fundraising.",
+                "Helped startups refine their product offerings."
+              ],
+              "achievements": [
+                "Contributed to the growth of numerous successful startups."
+              ]
+            }
+          ]
+        }
+      ],
+      "total_years_experience": "16"
+    },
+    "source_url": "https://en.wikipedia.org/wiki/Justin_Kan"
+  },
+  "Emmett Shear": {
+    "short_description": "Emmett Shear is an American Internet entrepreneur and investor, known for co-founding Twitch and serving as its CEO until March 2023.",
+    "education": {
+      "degree": "Bachelor's Degree",
+      "institution": "Yale University",
+      "field": "Computer Science"
+    },
+    "career": {
+      "current_role": {
+        "title": "Interim CEO",
+        "company": "OpenAI",
+        "description": "Briefly served as the interim CEO following the removal of Sam Altman.",
+        "duration": "November 2023",
+        "achievements": [
+          "Took on the role during a critical transition period for OpenAI",
+          "Addressed concerns regarding AI's impact on civilization"
+        ]
+      },
+      "experience": [
+        {
+          "company": "Twitch",
+          "roles": [
+            {
+              "title": "CEO",
+              "duration": "August 2011 - March 2023",
+              "description": "Led the company as it transitioned from Justin.tv to Twitch, focusing on gaming content.",
+              "responsibilities": [
+                "Oversaw the growth and development of Twitch as a leading live streaming platform",
+                "Managed company operations and strategic direction"
+              ],
+              "achievements": [
+                "Successfully rebranded Justin.tv to Twitch in 2014",
+                "Led the company through its acquisition by Amazon for $970 million"
+              ]
+            }
+          ]
+        },
+        {
+          "company": "Justin.tv",
+          "roles": [
+            {
+              "title": "Co-founder and CEO",
+              "duration": "March 2007 - August 2014",
+              "description": "Co-founded and managed the live video platform that eventually led to the creation of Twitch.",
+              "responsibilities": [
+                "Developed and launched the platform",
+                "Secured venture capital funding and expanded user base"
+              ],
+              "achievements": [
+                "Grew the platform to 31 million unique visitors monthly",
+                "Closed Justin.tv to focus on Twitch"
+              ]
+            }
+          ]
+        },
+        {
+          "company": "Y Combinator",
+          "roles": [
+            {
+              "title": "Part-time Partner",
+              "duration": "June 2011 - Present",
+              "description": "Provided mentorship and guidance to startups in the Y Combinator program.",
+              "responsibilities": [
+                "Advised new startups in each batch",
+                "Shared expertise in technology and entrepreneurship"
+              ],
+              "achievements": [
+                "Contributed to the success of multiple startups",
+                "Part of the first Y Combinator class in 2005"
+              ]
+            }
+          ]
+        }
+      ],
+      "total_years_experience": "16 years"
+    },
+    "source_url": "https://en.wikipedia.org/wiki/Emmett_Shear"
+  },
+  "Michael Seibel": {
+    "short_description": "Michael Seibel is a partner at Y Combinator and co-founder of Justin.tv/Twitch and Socialcam, known for promoting diversity in startups.",
+    "education": {
+      "degree": "Bachelor's Degree",
+      "institution": "Yale University",
+      "field": "Political Science"
+    },
+    "career": {
+      "current_role": {
+        "title": "Partner",
+        "company": "Y Combinator",
+        "description": "Advising startups and promoting diversity efforts among founders.",
+        "duration": "2013 - Present",
+        "achievements": [
+          "First African-American partner at Y Combinator",
+          "Mentored co-founders of Airbnb",
+          "Stepped down as CEO of Y Combinator Startup Accelerator in 2024"
+        ]
+      },
+      "experience": [
+        {
+          "company": "Y Combinator",
+          "roles": [
+            {
+              "title": "CEO of Y Combinator Startup Accelerator",
+              "duration": "2016 - 2024",
+              "description": "Led the Y Combinator Startup Accelerator, overseeing operations and mentoring startups.",
+              "responsibilities": [
+                "Managed accelerator programs",
+                "Guided startup founders"
+              ],
+              "achievements": [
+                "Expanded the accelerator's reach and impact",
+                "Promoted diversity initiatives within the startup community"
+              ]
+            },
+            {
+              "title": "Part-time Partner",
+              "duration": "2013 - Present",
+              "description": "Advised and mentored startups in various stages of development.",
+              "responsibilities": [
+                "Provided guidance to startup founders",
+                "Invested in promising startups"
+              ],
+              "achievements": [
+                "Advised hundreds of startups",
+                "Invested in notable companies like Cruise and Figma"
+              ]
+            }
+          ]
+        },
+        {
+          "company": "Socialcam",
+          "roles": [
+            {
+              "title": "CEO",
+              "duration": "2011 - 2012",
+              "description": "Led the development and growth of a social video-sharing app.",
+              "responsibilities": [
+                "Oversaw product development",
+                "Managed company operations"
+              ],
+              "achievements": [
+                "Successfully sold to Autodesk for $60 million",
+                "Grew the user base significantly in 18 months"
+              ]
+            }
+          ]
+        },
+        {
+          "company": "Justin.tv",
+          "roles": [
+            {
+              "title": "CEO",
+              "duration": "2007 - 2011",
+              "description": "Directed the operations and strategy of a live streaming platform.",
+              "responsibilities": [
+                "Managed day-to-day operations",
+                "Led the company through its transition to Twitch"
+              ],
+              "achievements": [
+                "Transformed Justin.tv into Twitch Interactive",
+                "Facilitated the sale to Amazon for $970 million"
+              ]
+            }
+          ]
+        },
+        {
+          "company": "Kweisi Mfume's Senate Campaign",
+          "roles": [
+            {
+              "title": "Finance Director",
+              "duration": "2006",
+              "description": "Managed financial operations for the campaign.",
+              "responsibilities": [
+                "Oversaw fundraising efforts",
+                "Managed campaign budget"
+              ],
+              "achievements": [
+                "Successfully raised funds for the campaign"
+              ]
+            }
+          ]
+        }
+      ],
+      "total_years_experience": "17 years"
+    },
+    "source_url": "https://en.wikipedia.org/wiki/Michael_Seibel"
+  },
+  "Dan Veltri": {
+    "short_description": "Co-founder of Weebly, a leading web hosting and development company.",
+    "education": {
+      "degree": null,
+      "institution": null,
+      "field": null
+    },
+    "career": {
+      "current_role": {
+        "title": "Co-founder",
+        "company": "Weebly",
+        "description": "Oversaw product development and strategy for Weebly, focusing on simplifying website creation.",
+        "duration": "2006 - 2018",
+        "achievements": [
+          "Helped launch Weebly's WYSIWYG website creation platform.",
+          "Contributed to the growth of Weebly to millions of customers and over 625,000 paid subscribers."
+        ]
+      },
+      "experience": [
+        {
+          "company": "Weebly",
+          "roles": [
+            {
+              "title": "Chief Product Officer",
+              "duration": "2006 - 2018",
+              "description": "Led product strategy and development, enhancing user experience and expanding product offerings.",
+              "responsibilities": [
+                "Developed and launched new features for the Weebly platform.",
+                "Managed product teams to ensure alignment with company goals."
+              ],
+              "achievements": [
+                "Successfully launched multiple language support and e-commerce features.",
+                "Played a key role in Weebly's acquisition by Square, Inc. for approximately $365 million."
+              ]
+            }
+          ]
+        }
+      ],
+      "total_years_experience": "12 years"
+    },
+    "source_url": "https://en.wikipedia.org/wiki/Weebly"
+  },
+  "Chris Fanini": {
+    "short_description": "Chris Fanini is the Chief Technology Officer at Weebly, a leading web hosting and development company.",
+    "education": {
+      "degree": null,
+      "institution": "University of Pennsylvania",
+      "field": null
+    },
+    "career": {
+      "current_role": {
+        "title": "Chief Technology Officer",
+        "company": "Weebly (a subsidiary of Block, Inc.)",
+        "description": "Oversees the technological development and infrastructure of Weebly, focusing on enhancing the platform's capabilities and user experience.",
+        "duration": "2006 - Present",
+        "achievements": [
+          "Led the development of Weebly's WYSIWYG editing interface.",
+          "Implemented CSS/HTML editing support in response to user feedback.",
+          "Contributed to the expansion of Weebly's e-commerce features."
+        ]
+      },
+      "experience": [
+        {
+          "company": "Weebly",
+          "roles": [
+            {
+              "title": "Co-founder and Chief Technology Officer",
+              "duration": "2006 - Present",
+              "description": "Co-founded Weebly and has been instrumental in its technological advancements and product development.",
+              "responsibilities": [
+                "Developing and maintaining the Weebly platform.",
+                "Leading the technology team in product innovation."
+              ],
+              "achievements": [
+                "Helped raise approximately $35 million in funding before the acquisition.",
+                "Played a key role in Weebly's acquisition by Square, Inc. for $365 million."
+              ]
+            }
+          ]
+        }
+      ],
+      "total_years_experience": "17 years"
+    },
+    "source_url": "https://en.wikipedia.org/wiki/Weebly"
+  },
+  "David Rusenko": {
+    "short_description": "David Rusenko is the co-founder and former CEO of Weebly, a leading web hosting and development company.",
+    "education": {
+      "degree": "Bachelor's Degree",
+      "institution": "University of Pennsylvania",
+      "field": "Business"
+    },
+    "career": {
+      "current_role": {
+        "title": "Former Chief Executive Officer",
+        "company": "Weebly",
+        "description": "Oversaw the overall operations and strategic direction of Weebly, focusing on simplifying website creation for users.",
+        "duration": "2006 - 2018",
+        "achievements": [
+          "Led Weebly to millions of customers and over 625,000 paid subscribers by 2018.",
+          "Successfully raised approximately $35 million in funding before the acquisition."
+        ]
+      },
+      "experience": [
+        {
+          "company": "Weebly",
+          "roles": [
+            {
+              "title": "Co-Founder and Chief Executive Officer",
+              "duration": "2006 - 2018",
+              "description": "Co-founded Weebly and served as CEO, responsible for product development, company strategy, and overall management.",
+              "responsibilities": [
+                "Developed the initial product in a college dorm.",
+                "Managed company growth and funding efforts.",
+                "Oversaw the launch of multiple product features and expansions."
+              ],
+              "achievements": [
+                "Successfully launched Weebly's WYSIWYG editing interface.",
+                "Expanded Weebly's services to include e-commerce features.",
+                "Facilitated the acquisition of Weebly by Square, Inc. for approximately $365 million."
+              ]
+            }
+          ]
+        }
+      ],
+      "total_years_experience": "12 years"
+    },
+    "source_url": "https://en.wikipedia.org/wiki/Weebly"
+  },
+  "Matthew Sweeny": {
+    "short_description": "Matthew Sweeny is the co-founder and CEO of Flirtey, the world's first drone delivery service.",
+    "education": {
+      "degree": "Bachelor's degree",
+      "institution": "University of Sydney",
+      "field": "International relations and philosophy"
+    },
+    "career": {
+      "current_role": {
+        "title": "CEO",
+        "company": "Flirtey",
+        "description": "Leading the company in the drone delivery sector, overseeing operations and strategic direction.",
+        "duration": "2013 - Present",
+        "achievements": [
+          "Pioneered the first drone delivery service in the world.",
+          "Established partnerships with universities and local governments."
+        ]
+      },
+      "experience": [
+        {
+          "company": "Flirtey",
+          "roles": [
+            {
+              "title": "Co-founder and CEO",
+              "duration": "2013 - Present",
+              "description": "Co-founded and led the development of Flirtey, focusing on drone delivery technology.",
+              "responsibilities": [
+                "Oversee company operations and strategic planning.",
+                "Manage partnerships and collaborations with educational institutions."
+              ],
+              "achievements": [
+                "Selected for Y Combinator\u2019s summer 2015 program.",
+                "Included on CNBC\u2019s Disruptor 50 list in 2018."
+              ]
+            }
+          ]
+        }
+      ],
+      "total_years_experience": "10"
+    },
+    "source_url": "https://en.wikipedia.org/wiki/Matt_Sweeny"
+  },
+  "Parker Conrad": {
+    "short_description": "Parker Conrad is the cofounder and CEO of Rippling, a leading cloud-based HR platform.",
+    "education": {
+      "degree": "AB",
+      "institution": "Harvard University",
+      "field": "Chemistry"
+    },
+    "career": {
+      "current_role": {
+        "title": "Chief Executive Officer",
+        "company": "Rippling",
+        "description": "Leading a cloud-based platform that integrates HR, IT, and Finance for businesses.",
+        "duration": "2016 - Present",
+        "achievements": [
+          "Raised $1.2 billion from top investors including Kleiner Perkins and Sequoia Capital.",
+          "Developed a comprehensive platform for onboarding, payroll, benefits, and vacation tracking."
+        ]
+      },
+      "experience": [
+        {
+          "company": "Zenefits",
+          "roles": [
+            {
+              "title": "Co-founder and Chief Executive Officer",
+              "duration": "2012 - 2016",
+              "description": "Founded a software company focusing on health insurance and payroll.",
+              "responsibilities": [
+                "Oversaw company operations and strategic direction.",
+                "Led fundraising efforts and managed investor relations."
+              ],
+              "achievements": [
+                "Achieved $100 million in annual revenue within two years.",
+                "Grew the company to 1,600 employees and 10,000 customers.",
+                "Named fastest-growing startup of the year in 2014."
+              ]
+            }
+          ]
+        },
+        {
+          "company": "Wikinvest (now SigFig)",
+          "roles": [
+            {
+              "title": "Co-founder",
+              "duration": "2008 - 2012",
+              "description": "Co-founded a portfolio-management startup.",
+              "responsibilities": [
+                "Developed product strategy and managed product development.",
+                "Collaborated with co-founders to grow the business."
+              ],
+              "achievements": [
+                "Successfully launched the platform and attracted initial users."
+              ]
+            }
+          ]
+        },
+        {
+          "company": "Amgen",
+          "roles": [
+            {
+              "title": "Product Manager",
+              "duration": "2003 - 2008",
+              "description": "Managed product development and marketing strategies for biotechnology products.",
+              "responsibilities": [
+                "Conducted market research and analysis.",
+                "Collaborated with cross-functional teams to launch products."
+              ],
+              "achievements": [
+                "Contributed to the successful launch of multiple products."
+              ]
+            }
+          ]
+        }
+      ],
+      "total_years_experience": "20"
+    },
+    "source_url": "https://en.wikipedia.org/wiki/Parker_Conrad"
+  },
+  "Alexandr Wang": {
+    "short_description": "Founder and CEO of Scale AI, recognized as the youngest self-made billionaire in the world.",
+    "education": {
+      "degree": "Not specified (dropped out)",
+      "institution": "Massachusetts Institute of Technology (MIT)",
+      "field": "Computer Science and Mathematics"
+    },
+    "career": {
+      "current_role": {
+        "title": "Founder and CEO",
+        "company": "Scale AI",
+        "description": "Leads Scale AI, a data annotation platform that provides training data for machine learning models.",
+        "duration": "2016 - Present",
+        "achievements": [
+          "Founded Scale AI, which reached a valuation of $7.3 billion in 2021.",
+          "Became the youngest self-made billionaire at age 24.",
+          "Secured defense contracts with the United States Armed Forces."
+        ]
+      },
+      "experience": [
+        {
+          "company": "Scale AI",
+          "roles": [
+            {
+              "title": "Co-founder and CEO",
+              "duration": "2016 - Present",
+              "description": "Oversees the operations and strategic direction of Scale AI.",
+              "responsibilities": [
+                "Developing partnerships with major companies like OpenAI, Uber, and General Motors.",
+                "Managing a large workforce of data labelers through the Remotask platform."
+              ],
+              "achievements": [
+                "Achieved a $1 billion net worth by owning 15% of the company.",
+                "Expanded Scale AI's services to include military applications."
+              ]
+            }
+          ]
+        },
+        {
+          "company": "Quora",
+          "roles": [
+            {
+              "title": "Software Programmer",
+              "duration": "Exact time period not specified",
+              "description": "Worked as a software programmer during his teenage years.",
+              "responsibilities": [
+                "Contributed to software development projects."
+              ],
+              "achievements": [
+                "Gained early experience in the tech industry."
+              ]
+            }
+          ]
+        }
+      ],
+      "total_years_experience": "7"
+    },
+    "source_url": "https://en.wikipedia.org/wiki/Alexandr_Wang"
+  },
+  "John Collison": {
+    "short_description": "John Collison is an Irish entrepreneur and the co-founder and president of Stripe, recognized as the youngest self-made billionaire in 2016.",
+    "education": {
+      "degree": "Bachelor's Degree",
+      "institution": "Harvard University",
+      "field": "Not specified"
+    },
+    "career": {
+      "current_role": {
+        "title": "Co-founder and President",
+        "company": "Stripe",
+        "description": "Oversees the strategic direction and operations of Stripe, a technology company that builds economic infrastructure for the internet.",
+        "duration": "2010 - Present",
+        "achievements": [
+          "Led Stripe to become a leading payment processing platform valued at $9.2 billion in 2016.",
+          "Contributed $1 million to California YIMBY, a pro-housing development lobbying organization."
+        ]
+      },
+      "experience": [
+        {
+          "company": "Stripe",
+          "roles": [
+            {
+              "title": "Co-founder and President",
+              "duration": "2010 - Present",
+              "description": "Co-founded Stripe with his brother Patrick, focusing on building payment solutions for businesses.",
+              "responsibilities": [
+                "Strategic planning and execution of company vision.",
+                "Management of company operations and team leadership."
+              ],
+              "achievements": [
+                "Achieved a valuation of $9.2 billion in 2016.",
+                "Ranked 15th in Forbes' list of America's Richest Entrepreneurs Under 40 in 2016."
+              ]
+            }
+          ]
+        },
+        {
+          "company": "Auctomatic",
+          "roles": [
+            {
+              "title": "Co-founder",
+              "duration": "2007 - 2008",
+              "description": "Co-founded Auctomatic, a software company that developed tools for eBay.",
+              "responsibilities": [
+                "Developed software solutions for e-commerce.",
+                "Collaborated with investors and stakeholders."
+              ],
+              "achievements": [
+                "Successfully merged with another company and sold for $5 million."
+              ]
+            }
+          ]
+        },
+        {
+          "company": "Shuppa",
+          "roles": [
+            {
+              "title": "Co-founder",
+              "duration": "2007 - 2008",
+              "description": "Founded Shuppa with his brother Patrick, focusing on e-commerce solutions.",
+              "responsibilities": [
+                "Initial business development and product ideation.",
+                "Engaged with early-stage investors."
+              ],
+              "achievements": [
+                "Merged with Auctomatic, leading to a successful acquisition."
+              ]
+            }
+          ]
+        }
+      ],
+      "total_years_experience": "16 years"
+    },
+    "source_url": "https://en.wikipedia.org/wiki/John_Collison"
+  },
+  "Patrick Collison": {
+    "short_description": "Patrick Collison is the co-founder and CEO of Stripe, a leading online payment processing platform.",
+    "education": {
+      "degree": "Not specified",
+      "institution": "Massachusetts Institute of Technology",
+      "field": "Not specified"
+    },
+    "career": {
+      "current_role": {
+        "title": "CEO",
+        "company": "Stripe",
+        "description": "Oversees the strategic direction and operations of Stripe, a technology company that builds economic infrastructure for the internet.",
+        "duration": "2010 - Present",
+        "achievements": [
+          "Led Stripe to become a $35 billion valued company as of September 2019.",
+          "Contributed $1 million to California YIMBY, a pro-housing development lobbying organization in 2018.",
+          "Co-founded Fast Grants in 2020 to accelerate COVID-19-related science."
+        ]
+      },
+      "experience": [
+        {
+          "company": "Auctomatic",
+          "roles": [
+            {
+              "title": "Co-founder",
+              "duration": "2007 - 2008",
+              "description": "Co-founded Auctomatic, a software company that provided tools for online sellers.",
+              "responsibilities": [
+                "Developed software solutions for e-commerce.",
+                "Managed engineering and product development."
+              ],
+              "achievements": [
+                "Sold Auctomatic to Live Current Media in March 2008, becoming a millionaire at age 19.",
+                "Served as Director of Engineering at Live Current Media's Vancouver base."
+              ]
+            }
+          ]
+        },
+        {
+          "company": "Stripe",
+          "roles": [
+            {
+              "title": "Co-founder",
+              "duration": "2010 - Present",
+              "description": "Co-founded Stripe to simplify online payment processing for businesses.",
+              "responsibilities": [
+                "Led product development and company strategy.",
+                "Oversaw fundraising efforts and investor relations."
+              ],
+              "achievements": [
+                "Raised $2 million in initial funding from notable investors in 2011.",
+                "Achieved a valuation of $9.2 billion in 2016, making the Collison brothers the youngest self-made billionaires."
+              ]
+            }
+          ]
+        }
+      ],
+      "total_years_experience": "16 years"
+    },
+    "source_url": "https://en.wikipedia.org/wiki/Patrick_Collison"
+  },
+  "William MacAskill": {
+    "short_description": "William MacAskill is a Scottish philosopher and author, co-founder of the effective altruism movement.",
+    "education": {
+      "degree": "DPhil",
+      "institution": "St Anne's College, Oxford",
+      "field": "Philosophy"
+    },
+    "career": {
+      "current_role": {
+        "title": "Research Fellow",
+        "company": "Global Priorities Institute, University of Oxford",
+        "description": "Conducting research on effective altruism and decision-making under normative uncertainty.",
+        "duration": "2018 - Present",
+        "achievements": [
+          "Contributed to the development of effective altruism as a movement",
+          "Published influential research articles in ethics and philosophy"
+        ]
+      },
+      "experience": [
+        {
+          "company": "University of Oxford",
+          "roles": [
+            {
+              "title": "Associate Professor",
+              "duration": "2015 - 2016",
+              "description": "Taught and conducted research in philosophy, focusing on effective altruism and normative uncertainty.",
+              "responsibilities": [
+                "Developed and delivered undergraduate and graduate courses",
+                "Supervised student research projects"
+              ],
+              "achievements": [
+                "Elected to an associate professorship",
+                "Published articles in leading philosophy journals"
+              ]
+            }
+          ]
+        },
+        {
+          "company": "Emmanuel College, Cambridge",
+          "roles": [
+            {
+              "title": "Junior Research Fellow",
+              "duration": "2014 - 2015",
+              "description": "Engaged in independent research and contributed to the academic community.",
+              "responsibilities": [
+                "Conducted research on moral philosophy",
+                "Participated in academic seminars and discussions"
+              ],
+              "achievements": [
+                "Published research findings",
+                "Built a network within the academic community"
+              ]
+            }
+          ]
+        },
+        {
+          "company": "Giving What We Can",
+          "roles": [
+            {
+              "title": "Co-founder",
+              "duration": "2009 - Present",
+              "description": "Encouraged individuals to pledge a portion of their income to effective charities.",
+              "responsibilities": [
+                "Developed organizational strategies",
+                "Engaged with donors and charities"
+              ],
+              "achievements": [
+                "Helped establish a community of effective altruists",
+                "Influenced charitable giving practices"
+              ]
+            }
+          ]
+        },
+        {
+          "company": "Centre for Effective Altruism",
+          "roles": [
+            {
+              "title": "Co-founder",
+              "duration": "2011 - Present",
+              "description": "Created an umbrella organization to promote effective altruism initiatives.",
+              "responsibilities": [
+                "Oversaw organizational development",
+                "Collaborated with various stakeholders"
+              ],
+              "achievements": [
+                "Expanded the reach of effective altruism",
+                "Launched multiple initiatives to promote effective giving"
+              ]
+            }
+          ]
+        }
+      ],
+      "total_years_experience": "15"
+    },
+    "source_url": "https://en.wikipedia.org/wiki/William_MacAskill"
+  },
+  "Mattias Lepp": {
+    "short_description": "Founder of Click and Grow, an innovative indoor gardening company specializing in smart plant growing solutions.",
+    "education": {
+      "degree": null,
+      "institution": null,
+      "field": null
+    },
+    "career": {
+      "current_role": {
+        "title": "Founder and CEO",
+        "company": "Click and Grow",
+        "description": "Oversees the development and marketing of consumer electronic products for indoor gardening, focusing on innovative solutions for growing edible plants.",
+        "duration": "2009 - Present",
+        "achievements": [
+          "Successfully launched multiple product lines including Smart Flowerpot, Smart Herb Garden, and Smart Garden series.",
+          "Expanded the company to over 450,000 customers and established offices in San Francisco, Tartu, and Tallinn.",
+          "Secured investment from INGKA Holding in 2018."
+        ]
+      },
+      "experience": [
+        {
+          "company": "Click and Grow",
+          "roles": [
+            {
+              "title": "Founder",
+              "duration": "2009 - Present",
+              "description": "Founded Click and Grow, leading the company in developing innovative indoor gardening solutions.",
+              "responsibilities": [
+                "Conceptualized and developed the Smart Flowerpot and other indoor gardening products.",
+                "Managed company operations and strategic direction.",
+                "Led fundraising efforts including successful Kickstarter campaigns."
+              ],
+              "achievements": [
+                "Won the Ajujaht business idea competition in 2010.",
+                "Achieved significant sales growth during the COVID-19 pandemic.",
+                "Introduced products that have sold over 90,000 units in the first year."
+              ]
+            }
+          ]
+        }
+      ],
+      "total_years_experience": "14"
+    },
+    "source_url": "https://en.wikipedia.org/wiki/Click_and_Grow"
+  },
+  "Pia Mancini": {
+    "short_description": "Pia Mancini is an activist and technical project leader known for co-founding Democracy Earth and Open Collective.",
+    "education": {
+      "degree": null,
+      "institution": null,
+      "field": null
+    },
+    "career": {
+      "current_role": {
+        "title": "Co-founder",
+        "company": "Open Collective",
+        "description": "Co-founded a platform that allows open-source project groups to collect and spend money semi-transparently.",
+        "duration": "January 2016 - Present",
+        "achievements": [
+          "Developed a platform that supports financial transparency for open-source projects.",
+          "Facilitated donations for open source code contributors."
+        ]
+      },
+      "experience": [
+        {
+          "company": "Democracy Earth",
+          "roles": [
+            {
+              "title": "Co-founder",
+              "duration": "2013 - Present",
+              "description": "Co-founded a non-profit organization that provides an online platform for political groups.",
+              "responsibilities": [
+                "Developing tools for political engagement.",
+                "Supporting citizen participation in governance."
+              ],
+              "achievements": [
+                "Established a platform that enhances political group organization.",
+                "Promoted the use of technology in democratic processes."
+              ]
+            }
+          ]
+        },
+        {
+          "company": "Net Democracy Foundation",
+          "roles": [
+            {
+              "title": "Founder",
+              "duration": "2012 - Present",
+              "description": "Founded a non-profit to support citizen participation in government through technology.",
+              "responsibilities": [
+                "Creating tools for public engagement.",
+                "Launching initiatives to improve democratic processes."
+              ],
+              "achievements": [
+                "Released DemocracyOS, an online app for citizen engagement with legislation."
+              ]
+            }
+          ]
+        },
+        {
+          "company": "Net Party",
+          "roles": [
+            {
+              "title": "Co-founder",
+              "duration": "2012 - 2013",
+              "description": "Co-founded a political party that acts according to people's wishes expressed online.",
+              "responsibilities": [
+                "Advocating for online citizen engagement in politics.",
+                "Building a political platform based on digital participation."
+              ],
+              "achievements": [
+                "Established a political party focused on direct democracy."
+              ]
+            }
+          ]
+        },
+        {
+          "company": "Uni\u00f3n Celeste y Blanco",
+          "roles": [
+            {
+              "title": "Political Worker",
+              "duration": "2010 - 2012",
+              "description": "Worked for an Argentine political party but left due to dissatisfaction with public responsiveness.",
+              "responsibilities": [
+                "Engaging with party activities.",
+                "Attempting to influence political processes."
+              ],
+              "achievements": [
+                "Identified gaps in political responsiveness leading to the creation of Net Democracy."
+              ]
+            }
+          ]
+        }
+      ],
+      "total_years_experience": "13"
+    },
+    "source_url": "https://en.wikipedia.org/wiki/Pia_Mancini"
+  },
+  "Long Vo": {
+    "short_description": "Long Vo is an entrepreneur and creative director known for co-founding Gaia Online and his contributions to the gaming and comic book industries.",
+    "education": {
+      "degree": null,
+      "institution": null,
+      "field": null
+    },
+    "career": {
+      "current_role": {
+        "title": "CoFounder and COO",
+        "company": "OneSignal",
+        "description": "Leading provider for Web Push and Mobile Push Notifications for Websites and Apps.",
+        "duration": "Present",
+        "achievements": [
+          "Established OneSignal as a leader in push notification services",
+          "Continues to contribute to the Fighting Games community through design work"
+        ]
+      },
+      "experience": [
+        {
+          "company": "Hiptic Games",
+          "roles": [
+            {
+              "title": "Founder and Creative Director",
+              "duration": "2012 - Present",
+              "description": "Oversees the development of mobile games and original IP.",
+              "responsibilities": [
+                "Leading game design and development",
+                "Managing creative direction for mobile game projects"
+              ],
+              "achievements": [
+                "Developed successful mobile games like GO NINJA and SHAQDOWN",
+                "Released DiverDogs, featured as Best New Games"
+              ]
+            }
+          ]
+        },
+        {
+          "company": "Gaia Online",
+          "roles": [
+            {
+              "title": "Co-Founder",
+              "duration": "2003 - 2009",
+              "description": "Helped establish one of the first social gaming platforms.",
+              "responsibilities": [
+                "Developing the platform and community",
+                "Managing partnerships with venture firms"
+              ],
+              "achievements": [
+                "Grew the platform to over 26 million registered users",
+                "Secured backing from major venture firms"
+              ]
+            }
+          ]
+        },
+        {
+          "company": "Capcom",
+          "roles": [
+            {
+              "title": "Lead Sprite Designer and Illustrator",
+              "duration": "2008 - Present",
+              "description": "Contributed artwork and design for various Capcom titles.",
+              "responsibilities": [
+                "Creating sprite designs for high-profile games",
+                "Providing illustrations for collector's editions"
+              ],
+              "achievements": [
+                "Lead sprite designer for Super Street Fighter II Turbo HD Remix",
+                "Contributed to Street Fighter V: Arcade Edition as Lead Ending Illustrator"
+              ]
+            }
+          ]
+        },
+        {
+          "company": "Studio XD",
+          "roles": [
+            {
+              "title": "Manager",
+              "duration": "Prior to 2003",
+              "description": "Managed a comic studio producing illustrations and comic books.",
+              "responsibilities": [
+                "Overseeing production of comic works",
+                "Collaborating with various publishers"
+              ],
+              "achievements": [
+                "Produced works for major comic publishers like Marvel and DC",
+                "Established a reputation in the comic book industry"
+              ]
+            }
+          ]
+        }
+      ],
+      "total_years_experience": "Approximately 20 years"
+    },
+    "source_url": "https://en.wikipedia.org/wiki/Long_Vo"
+  },
+  "Iba Masood": {
+    "short_description": "Iba Masood is the founder of Gradberry.com, a platform aimed at connecting students with job opportunities.",
+    "education": {
+      "degree": "Not specified",
+      "institution": "Not specified",
+      "field": "Not specified"
+    },
+    "career": {
+      "current_role": {
+        "title": "Founder",
+        "company": "Gradberry.com",
+        "description": "Leading the development and growth of Gradberry.com, focusing on bridging the gap between students and employers.",
+        "duration": "Not specified",
+        "achievements": [
+          "Established a platform that connects students with job opportunities.",
+          "Developed partnerships with various educational institutions and companies."
+        ]
+      },
+      "experience": [
+        {
+          "company": "Gradberry.com",
+          "roles": [
+            {
+              "title": "Founder",
+              "duration": "Not specified",
+              "description": "Responsible for the overall vision and strategy of Gradberry.com.",
+              "responsibilities": [
+                "Overseeing platform development and user engagement.",
+                "Building relationships with educational institutions and employers."
+              ],
+              "achievements": [
+                "Successfully launched the platform.",
+                "Increased user base significantly since inception."
+              ]
+            }
+          ]
+        }
+      ],
+      "total_years_experience": "Not specified"
+    },
+    "source_url": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Women_in_Red/Business"
+  }
+}

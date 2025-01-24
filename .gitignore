@@ -127,3 +127,42 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Project-specific ignores
+.env
+*.log
+*.bak
+
+# Processed and temporary data files
+processed_founders/
+temp/
+*.tmp
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Large data files (optional, depending on project needs)
+*.large
+*.massive
+
+# Sensitive or local configuration
+config.local.json
+secrets.json
+
+# macOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Pipenv
+Pipfile.lock
+
+# Specific to this project
+founders_archive/
+unverified_founders/
